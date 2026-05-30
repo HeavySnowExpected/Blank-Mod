@@ -1,8 +1,7 @@
-name="Blank Mod for Global Modding | 1.16"
+name="Blank Mod"
 tags={
 	"Utilities"
 }
-picture="thumbnail.png"
 version="1.1"
 replace_path="common/achievements"
 replace_path="common/abilities"
@@ -68,5 +67,4 @@ replace_path="gfx/flags/medium"
 replace_path="gfx/flags/small"
 replace_path="gfx/train_gfx_database"
 replace_path="gfx/interface/equipmentdesigner/graphic_db"
-supported_version="1.16.*"
-remote_file_id="3261305586"
+supported_version="1.18.2.0"

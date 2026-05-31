@@ -68,3 +68,7 @@ replace_path="gfx/flags/small"
 replace_path="gfx/train_gfx_database"
 replace_path="gfx/interface/equipmentdesigner/graphic_db"
 supported_version="1.18.2.0"
+
+replace_path="common/ai_navy/fleet"
+replace_path="common/ai_navy/goals"
+replace_path="common/ai_navy/taskforce"

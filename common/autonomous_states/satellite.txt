@@ -41,10 +41,11 @@ autonomy_state = {
 			AND = {
 				OR = {
 				has_dlc = "No Step Back"
+				}
 			}
 		}
 		has_government = fascism
-		if = {
-		}
+		#if = {
+		#}
 	}
 }

@@ -89,34 +89,34 @@ leader_traits = {
 	imperial_sanction = {
 		random = no
 
-		targeted_modifier = {
-			tag = CHI
-			generate_wargoal_tension_against = 0.75
-		}
-		targeted_modifier = {
-			tag = PRC
-			generate_wargoal_tension_against = 0.75
-		}
-		targeted_modifier = {
-			tag = SHX
-			generate_wargoal_tension_against = 0.75
-		}
-		targeted_modifier = {
-			tag = GXC
-			generate_wargoal_tension_against = 0.75
-		}
-		targeted_modifier = {
-			tag = YUN
-			generate_wargoal_tension_against = 0.75
-		}
-		targeted_modifier = {
-			tag = XSM
-			generate_wargoal_tension_against = 0.75
-		}
-		targeted_modifier = {
-			tag = SIK
-			generate_wargoal_tension_against = 0.75
-		}
+#		targeted_modifier = {
+#			tag = CHI
+#			generate_wargoal_tension_against = 0.75
+#		}
+#		targeted_modifier = {
+#			tag = PRC
+#			generate_wargoal_tension_against = 0.75
+#		}
+#		targeted_modifier = {
+#			tag = SHX
+#			generate_wargoal_tension_against = 0.75
+#		}
+#		targeted_modifier = {
+#			tag = GXC
+#			generate_wargoal_tension_against = 0.75
+#		}
+#		targeted_modifier = {
+#			tag = YUN
+#			generate_wargoal_tension_against = 0.75
+#		}
+#		targeted_modifier = {
+#			tag = XSM
+#			generate_wargoal_tension_against = 0.75
+#		}
+#		targeted_modifier = {
+#			tag = SIK
+#			generate_wargoal_tension_against = 0.75
+#		}
 
 		ai_will_do = {
 			factor = 1
@@ -1231,11 +1231,11 @@ leader_traits = {
 	militant_socialist = {
 		random = no
 		war_support_factor = 0.05
-		targeted_modifier = {
-			tag = SOU
-			attack_bonus_against = 0.1
-			defense_bonus_against = 0.1
-		}
+#		targeted_modifier = {
+#			tag = SOU
+#			attack_bonus_against = 0.1
+#			defense_bonus_against = 0.1
+#		}
 	}
 
 	constitutional_monarch_minor = { #Dom Duarte Nuno, King of Portugal
@@ -1935,8 +1935,6 @@ leader_traits = {
 	}
 
 	elected_regency_council_pro_axis = { #Regency Council (pro axis)
-		name = elected_regency_council
-
 		random = no
 		political_power_factor = 0.05
 		stability_factor = 0.1
@@ -1945,8 +1943,6 @@ leader_traits = {
 	}
 
 	elected_regency_council_pro_allies = { #Regency Council (pro allies)
-		name = elected_regency_council
-
 		random = no
 		political_power_factor = 0.05
 		stability_factor = 0.1
@@ -9600,10 +9596,10 @@ leader_traits = {
 	AUS_elizabeth = {
 		random = no #this is Johann Hiedler
 
-		targeted_modifier = {
-			tag = ENG
-			compliance_growth = 0.01
-		}
+#		targeted_modifier = {
+#			tag = ENG
+#			compliance_growth = 0.01
+#		}
 	}
 
 	AUS_fascist_propaganda_artist = {
